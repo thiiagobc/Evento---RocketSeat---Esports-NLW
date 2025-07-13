@@ -1,125 +1,50 @@
-# HTML
+# 🚀 Projeto NLW - Rocketseat (Esports Builds LoL)
 
-- HyperText
-    - Textos  puro , livros , revistas, jornais
-    - Links: acessar outros documentos
-    - Imagens, vídeos, áudios
-- Markup
-    - Marcação
-    - Tags: <a> Link </a>
-    - Atributos: <a href="https://rocketseat.com.br">
-    - globais: id, class, 
-- Language
-    - Linguagem
-    - Sintaxe: maneira de escrever
+Este projeto foi desenvolvido durante o evento NLW da Rocketseat com o objetivo de criar uma interface simples que utiliza inteligência artificial (Google Gemini) para sugerir a melhor build para campeões de jogos como **League of Legends**, **Valorant** e **CS:GO**. 
 
-# HTTP
+---
 
-- HyperText
-- Transfer
-    - Transferência
-- Protocol
-    - Protocolo
-    - Conjunto de regras
-    - Methods HTTP (verbos): Get, Post, Patch/Put, Delete
-    - Headers (cabeçalhos): Instruções/Informações extras para cada chamada
+## ✨ Funcionalidades
 
-# URL
-- Uniform
-    - Uniforme
-- Resource
-    - Recurso
-- Locator
-    - Localizador
-Encontrar um recurso (html, css, js, pdf, png, jpg, mp4, mp3 ...)
-Endereço
+- Busca personalizada com IA (Gemini)
+- Interface simples em HTML/CSS
+- Interação dinâmica com JavaScript
+- Sugestão de itens, feitiços e habilidades com base no nome do campeão
 
-# IP
-- Internet
-    - Rede mundial de computadores
-- Protocol
-    - Conjunto de regras
-Endereços do computador
-rocketseat.com.br (domínio)
-123.32.1.23 (ip)
+---
 
-# DNS
-- Domain
-    - Domínio
-- Name
-    - Nome
-- Server
-    - Servidor
+## 🛠️ Tecnologias utilizadas
 
-# CSS
-- Cascading
-    - Cascata
-    - Regras das escritas
-    - Hierarquia
-    - Especificidade
-- Style
-    - Estilo
-- Sheet
-    - Folha
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Google Gemini (IA generativa)
+- VS Code
 
-Um arquivo terá na sua sintaxe, declarações, propriedades e valores. A partir disso, o HTML é impactado visualmente.
+---
 
-- declaração
-- seletor
-- propriedade e valor
+## 📷 Imagem do projeto
 
-# JS
-- Linguagem de programação
-- Browsers
-- Input > Process > Output
-- Variáveis
-- Function
-    - Agrupamento e reuso de código
-    - Sequência lógica
-    - Saída de dados
-- Gemini (IA): esperar uma resposta
-- Mexer no meu navegador
-- Estrutura de dados
-- Estrutura de decisão
-- Algoritmo: sequencia de passos lógica, de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
-- Lógica (Pensamento computacional)
-    - Abstração
-    - Decomposição
-    - Algoritmo
-    - Reconhecimento de padrão
-- Tipos de dados
-    - Number (números)
-    - String (textos) (" ", ' ', ` `)
-    - Boolean (true | false)
-    - Objects
+![Interface do projeto NLW](image.png)
 
-# DOM
-- Document
-- Object
-- Model
+---
 
-# API
-- Application
-- Programming
-- Interface
-- JASON: JavaScript Object Notation 
+## 🧠 O que aprendi
 
-# CDN
-- Content
-- Delivery
-- Network
+> "Durante esse evento da Rocketseat, aprendi a integrar IA no front-end, além de reforçar minhas habilidades com HTML, CSS e JavaScript.  
+Mesmo em transição de carreira, acredito que a vontade de aprender supera qualquer barreira.  
+Sou grato à Rocketseat pelo conteúdo gratuito e de qualidade!"
 
-#LLM
-- Large
-- Language
-- Model
-- Gemini, OpenAI (chatGPT), Anthropic (Claude) ...
+---
 
-# Agentes AI
-- Tools (ferramentas): permitem uso de código, ou apps, ou qualquer informação extra.
-- Melhor contexto
+## 🤝 Agradecimentos
 
-# Engenharia de prompt
-- One shot:  uma única pergunta sem muito contexto
-- Few shot: é apresentado exemplos do que se espera
-- Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução.
+Obrigado à [Rocketseat](https://www.rocketseat.com.br/) pelo evento gratuito e incrível!
+
+---
+
+## 📌 Autor
+
+**Thiago de Brito Corteis**  
+[🔗 LinkedIn](https://www.linkedin.com/in/thiiagobc)  
+[🔗 GitHub](https://github.com/thiiagobc)
