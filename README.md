@@ -25,7 +25,7 @@ Este projeto foi desenvolvido durante o evento NLW da Rocketseat com o objetivo 
 
 ## 📷 Imagem do projeto
 
-![Interface do projeto NLW](image.png)
+![Interface do projeto NLW](assets/image.png)
 
 ---
 
