@@ -43,6 +43,11 @@ Obrigado à [Rocketseat](https://www.rocketseat.com.br/) pelo evento gratuito e 
 
 ---
 
+## 📜 Certificado
+
+Acesse o [Certificado de Conclusão](./certificado-nlw-esports.pdf) deste projeto.
+
+
 ## 📌 Autor
 
 **Thiago de Brito Corteis**  
